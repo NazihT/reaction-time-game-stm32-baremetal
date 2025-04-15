@@ -28,7 +28,7 @@ A simple reaction time game built entirely in bare-metal C for the STM32 using P
 
 ## 🎥 Demo
 
-[Add a YouTube link or GIF here if you have one]
+https://github.com/NazihT/reaction-time-game-stm32-baremetal/blob/c9acf1f9942df48c5318979a3c8466194a9f1a91/REACTIONTIME-ezgif.com-optimize.gif
 
 ## 🛠️ Requirements
 
