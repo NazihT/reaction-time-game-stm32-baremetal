@@ -4,7 +4,7 @@ A simple reaction time game built entirely in bare-metal C for the STM32 using P
 
 ## 🕹️ How It Works
 
-- Press **Button 1** to start.
+- Press **Button 1 ** to start.
 - After a **random delay** (1.5–5 seconds), the **red LED turns on**.
 - As fast as you can, press **Button 2** when you see the red LED.
 - Your reaction time is measured and sent over **UART**.
