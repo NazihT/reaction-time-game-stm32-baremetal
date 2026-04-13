@@ -2,6 +2,7 @@
 
 A simple reaction time game built entirely in bare-metal C for the STM32 using PlatformIO.
 
+
 ## 🕹️ How It Works
 
 - Press **Button 1 ** to start.
